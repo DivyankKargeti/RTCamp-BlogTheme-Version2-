@@ -20,7 +20,7 @@
 <body>
     
     <header class="header text-center">	    
-	    <a class="site-title pt-lg-4 mb-0" href="http://localhost/RTCamp-Theme/">
+	    <a class="site-title pt-lg-4 mb-0" href="http://localhost/rtcamp-theme2/">
 			<?php echo get_bloginfo('name'); ?>
 		</a>
         
